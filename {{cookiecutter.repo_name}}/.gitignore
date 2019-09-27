@@ -1,4 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
 *.py[cod]
+*$py.class
+nilearn_cache/
+.pytest_cache/
+.vscode/
+.idea/
 
 # C extensions
 *.so
